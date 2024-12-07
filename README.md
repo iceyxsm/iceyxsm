@@ -1,4 +1,4 @@
-# Hi there !👋 I'm Icey !
+# Yo Icey here!!!
 
 1% Chance 995 Faith!!
 
