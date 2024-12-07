@@ -3,7 +3,7 @@
 1% Chance 995 Faith!!
 
 
-[![icey's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iceyxsm)]
+![icey's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iceyxsm)
 
 
 ## Stats :
