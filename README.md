@@ -1,6 +1,6 @@
 # Yo Icey here!!!
 
-1% Chance 995 Faith!!
+<h3>1% Chance 99% Faith!!</h3>
 
 
 ![icey's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iceyxsm)
