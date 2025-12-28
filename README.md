@@ -1,6 +1,6 @@
 # Yoi, I'm Icey 👋
 
-I am a passionate developer and  focusing on game development and web technologies. I love building dumb shi that i find interesting.
+I am a passionate developer and  focusing on software development and web technologies. I love building stuff that i find interesting.
 
 <div align="center">
 
@@ -37,10 +37,17 @@ I am a passionate developer and  focusing on game development and web technologi
 - Docker for deployment
 
 
-## 🌐 Web Development
+##  Skills
 
 Experienced in:
 - Frontend Development
+- Backend Development
+- database's
+- Graphic Designing
+- UI/UX Designing
+- 3d modelling
+- Video Editing
+- Mobile app development
 - Responsive Web Design
 - Interactive Web Applications
 - Docker Containerization
