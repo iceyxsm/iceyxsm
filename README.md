@@ -1,6 +1,6 @@
-# Yoi, I'm Icey 👋
+# Yoi, I'm iceyyyy
 
-I am a passionate developer and  focusing on software development and web technologies. I love building stuff that i find interesting.
+I am a passionate developer and  focusing on software development and web technologies. I love building stuff that i find interesting and sometimes it gets a bit more then.
 
 <div align="center">
 
@@ -17,8 +17,7 @@ I am a passionate developer and  focusing on software development and web techno
 </div>
 
 ##  About Me
-
-- 💻 Full-stack Web Developer
+Not sure what i should call myself since i do programming, video editing, graphic designing, 3d modelling, ui/ux designing, ai automations, maqrketing....
 
 
 ## 🛠️ Tech Stack
