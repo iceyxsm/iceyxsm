@@ -1,6 +1,6 @@
 # Yoi, I'm iceyyyy
 
-I am a passionate developer and  focusing on software development and web technologies. I love building stuff that i find interesting and sometimes it gets a bit more then.
+I am a passionate developer and  focusing on software development and web technologies. I love building stuff that i find interesting and sometimes it gets a bit too much coz i have ocd.
 
 <div align="center">
 
