@@ -20,7 +20,7 @@ I am a passionate developer and  focusing on software development and web techno
 Not sure what i should call myself since i do programming, video editing, graphic designing, 3d modelling, ui/ux designing, ai automations, maqrketing....
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,react,js,html,css,mysql,docker)](https://skillicons.dev)
 
 - HTML/CSS/JavaScript for web development
