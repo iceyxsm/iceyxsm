@@ -17,7 +17,7 @@ I am a passionate developer and  focusing on software development and web techno
 </div>
 
 ##  About Me
-Not sure what i should call myself since i do programming, video editing, graphic designing, 3d modelling, ui/ux designing, ai automations, maqrketing....
+Not sure what i should call myself since i do programming, video editing, graphic designing, 3d modelling, ui/ux designing, ai automations, marketing, game dev....
 
 
 ## Tech Stack
