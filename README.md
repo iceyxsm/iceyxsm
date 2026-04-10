@@ -1,4 +1,4 @@
-# Yoi, I'm iceyyyy
+# Yoi, its Shiv xD
 
 I am a passionate developer and  focusing on software development and web technologies. I love building stuff that i find interesting and sometimes it gets a bit too much coz i have ocd.
 
@@ -13,6 +13,13 @@ I am a passionate developer and  focusing on software development and web techno
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="yeongpin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iceyxsm&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=false" />
 </a>
+
+# GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iceyxsm&show_icons=true&theme=react" height="150"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iceyxsm&layout=compact&theme=react" height="150"/>
+</p>
 
 </div>
 
