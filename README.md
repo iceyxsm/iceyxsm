@@ -9,6 +9,9 @@ I am a passionate developer and  focusing on software development and web techno
 </p>
 <br>
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="yeongpin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iceyxsm&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=false" />
+</a>
 
 # GitHub Stats
 
@@ -19,9 +22,6 @@ I am a passionate developer and  focusing on software development and web techno
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iceyxsm&layout=compact&theme=react" height="150"/>
 </p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="yeongpin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iceyxsm&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=false" />
-</a>
 </div>
 
 ##  About Me
